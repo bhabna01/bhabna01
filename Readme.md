@@ -1,12 +1,11 @@
+![Header](./github-header-image.png)
 
 
 
-### 👋, my name is Bhabna
-#### I am a Web Developer From Bangladesh
 
  I am an enthusiast of Technology and Startups
 
-Skills:  REACT / JS / HTML / CSS / Python / Tailwind CSS
+Skills:  REACT / JS / HTML / CSS / Python / Tailwind CSS / Node JS / MongoDB
 
 - 🔭 I’m currently working on https://esthetica-salon.web.app/ 
 - 🌱 I’m currently learning Backend,Authentication,Authorization 
