@@ -4,9 +4,10 @@
 <img width="1280" height="500" src="https://github.com/bhabna01/bhabna01/blob/main/There.png" alt="my banner">
 
 </p>
-### My name is Bhabna
+
+### Hi there 👋, my name is Bhabna
 #### I am a Web Developer From Bangladesh
-![I am a Web Developer From Bangladesh]
+
  I am an enthusiast of Technology and Startups
 
 Skills:  REACT / JS / HTML / CSS / Python / Tailwind CSS
