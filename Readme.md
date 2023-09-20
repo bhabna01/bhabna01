@@ -5,7 +5,7 @@
 
 </p>
 
-### Hi there 👋, my name is Bhabna
+### 👋, my name is Bhabna
 #### I am a Web Developer From Bangladesh
 
  I am an enthusiast of Technology and Startups
