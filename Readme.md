@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="2NcfVlhR.gif">
+<img align="right" alt="Coding" width="400" src="gitgif.gif">
 
 
  I am an enthusiast of Technology and Startups
